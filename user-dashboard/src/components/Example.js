@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 
 const Example = () => {
@@ -12,3 +13,4 @@ Example.propTypes = {
 };
 
 export default Example;
+*/
